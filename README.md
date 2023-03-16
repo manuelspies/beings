@@ -1,2 +1,2 @@
 # beings
-Just for testing GitHub
+Just for testing GitHub with protection
